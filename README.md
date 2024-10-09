@@ -32,3 +32,12 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/yourusername/quantitative-finance-strategies.git
+
+2. Navigate to the repository directory
+   ```sh
+   cd quantitative-finance-strategies
+3. Install Python dependencies
+   ```sh
+   pip install -r requirements.txt
+
+   
